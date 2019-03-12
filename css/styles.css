@@ -12,9 +12,13 @@
 
     body{
         font-family: 'Patua One', cursive;
-        color:white;
+        color:turquoise;
     }
 
     .container-fluid{
-        background-color: grey;
+        background-color:black;
+    }
+
+    .nav-pills{
+        float:right;
     }
